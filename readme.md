@@ -3,7 +3,9 @@
 ### Setup ENV
 
 1. Clone the project
+```
 git clone https://github.com/mfleming711/extract_risk_from_text.git
+```
 2. Setup python and pip
 3. Install the requirements
 ```
